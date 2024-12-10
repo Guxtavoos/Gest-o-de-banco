@@ -1,7 +1,4 @@
-# Sistema de Gestão de Relacionamento com o Cliente (CRM)
 
-## Descrição do Projeto
-Este projeto implementa as estruturas e dados de um banco de dados para um sistema de gestão de relacionamento com o cliente (CRM). O banco de dados foi projetado para armazenar informações sobre clientes, campanhas de marketing e interações realizadas com os clientes.
 
 ## Estrutura do Banco de Dados
 O banco de dados é composto por três tabelas principais:
